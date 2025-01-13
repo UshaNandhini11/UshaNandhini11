@@ -1,4 +1,4 @@
-# Hi there, This is Usha Nandhini 👋
+# Hi there, This is Usha 👋
 
 I'm a passionate Java developer and budding FullStack developer learning React and other web technologies. I enjoy building full-stack applications and experimenting with new technologies.
 
