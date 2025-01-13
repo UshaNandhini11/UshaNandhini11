@@ -14,7 +14,7 @@ I'm a passionate Java developer and budding FullStack developer learning React a
 - Java
 - RestAPI
 - Microsevices
-- SrpingBoot
+- SpringBoot
 - SQL  
 
 ## 🌱 I'm currently learning:
@@ -22,6 +22,7 @@ I'm a passionate Java developer and budding FullStack developer learning React a
 - TypeScript
 - Node.js
 - PowerBI
+  
 ## Problem Solving:
 - [LeetCode](https://leetcode.com/u/UshaNandhini/)
 - [HackerRank](https://www.hackerrank.com/profile/UshaNandhini11)
