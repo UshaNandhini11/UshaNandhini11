@@ -3,6 +3,8 @@
 I'm a passionate Java developer and budding FullStack developer learning React and other web technologies. I enjoy building full-stack applications and experimenting with new technologies.
 
 ## 🔧 Technologies & Tools:
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFB813?style=flat&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
